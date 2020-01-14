@@ -16,7 +16,7 @@ public class QuickSort {
     
     public static void main(String[] args) {
  
-		int[] x = { 4,2,6,5,3,9 };
+		int[] x = { 4,2,6,5,3,8 };
 		System.out.println(Arrays.toString(x));
  
 		int low = 0;
